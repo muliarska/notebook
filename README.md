@@ -5,5 +5,5 @@ examples to explain the following concepts: object, class attributes, class meth
 ### Conclusion:
 With this module, the user can understand how the program 'notebook.py' works and explore its performance.
 
-![]('note1.png')
+![]('note1.PNG')
 ## Author: Yana Muliarska
