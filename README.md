@@ -1,5 +1,5 @@
 # notebook
-This module investigates the performance of the program 'notebook.py' and find, using isinstance and dir,
+This module explores the performance of the program 'notebook.py' and find, using isinstance and dir functions,
 examples to explain the following concepts: object, class attributes, class methods, method __init__ and __str__.
 
 ### Conclusion:
