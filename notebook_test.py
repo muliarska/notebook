@@ -1,6 +1,7 @@
 from notebook import Notebook, Note
 from menu import Menu
 
+
 note = Note('I am Steve Jobs!', 'Steve Jobs')
 notebook = Notebook()
 print("Created note: 'I am Steve Jobs!'")
